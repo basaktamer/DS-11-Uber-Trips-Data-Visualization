@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+matplotlib
+seaborn
+bar_chart_race
